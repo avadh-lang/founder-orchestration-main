@@ -56,6 +56,7 @@ Under the hood, six specialized GPT-4o agents run in order as a LangGraph pipeli
 | Database | Neon (PostgreSQL) |
 | Vector store | Pinecone |
 | Observability | LangSmith |
+| Deployment | Vercel (both frontend and backend) |
 
 ---
 
