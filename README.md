@@ -2,6 +2,8 @@
 
 **AI Founder Orchestration System** — turn a raw startup idea into a complete, structured founder package in minutes, using six specialized AI agents that run in sequence.
 
+> **Fully responsive across every device.** The web app is designed to work seamlessly on desktops, laptops, tablets, and mobile phones — layouts, navigation, and the live agent view all adapt fluidly to any screen size.
+
 ---
 
 ## Project Resources
